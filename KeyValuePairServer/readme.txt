@@ -6,6 +6,7 @@ Scope completed:
 Projects:
 - KeyValueProvider - library implementation
 - KeyValueProviderTests - unit tests
+- KeyValueClient - sample console application to present protocol commands on the server
 
 Key classes:
 KeyValuePairProvider
