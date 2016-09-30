@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyValueProvider", "KeyValueProvider\KeyValueProvider.csproj", "{F60E91C6-1A79-42E7-AE66-EE1BFB719F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyValueProviderTests", "KeyValueProviderTests\KeyValueProviderTests.csproj", "{4C8B5DC9-B6A7-43CC-9B31-BDFDDBEDD32C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60E91C6-1A79-42E7-AE66-EE1BFB719F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60E91C6-1A79-42E7-AE66-EE1BFB719F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60E91C6-1A79-42E7-AE66-EE1BFB719F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60E91C6-1A79-42E7-AE66-EE1BFB719F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8B5DC9-B6A7-43CC-9B31-BDFDDBEDD32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8B5DC9-B6A7-43CC-9B31-BDFDDBEDD32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8B5DC9-B6A7-43CC-9B31-BDFDDBEDD32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8B5DC9-B6A7-43CC-9B31-BDFDDBEDD32C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
